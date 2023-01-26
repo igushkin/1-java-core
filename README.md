@@ -1,15 +1,15 @@
 # 1-java-core
 Java Standard Library and its features
 
-Постановка задачи
+Problem statement
 =================
 
-Компания по производству спортивных носков решила разработать собственный счётчик калорий для дополнительной мотивации к здоровому образу жизни. Написать прототип приложения поручили вам. Он будет работать в консоли и демонстрировать основные функции будущего приложения.
+A sports socks company has decided to develop its own calorie counter for additional motivation to a healthy lifestyle. You were assigned to write a prototype of the application. It will work in the console and demonstrate the main functions of the future application.
 
-Приложение должно предоставлять следующую функциональность:
+The application should provide the following functionality:
 
-*   консольный интерфейс для управления программой;
-*   хранение данных о количестве пройденных шагов за несколько месяцев;
-*   ввод цели по количеству шагов в день;
-*   ввод пройденного количества шагов за день;
-*   вывод статистики за определённый месяц.
+* console interface for program management;
+* storing data on the number of steps taken over several months;
+* entering a goal by the number of steps per day;
+* entering the number of steps completed per day;
+* output statistics for a specific month.
